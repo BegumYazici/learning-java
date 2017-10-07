@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by asus1 on 6.10.2017.
  */
-public class dikucgen {
+public class DikUcgen {
     public static void main(String[] args) {
 
         Scanner giris = new Scanner(System.in);

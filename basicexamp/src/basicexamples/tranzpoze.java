@@ -3,7 +3,7 @@ package basicexamples;
 /**
  * Created by asus1 on 5.10.2017.
  */
-public class tranzpoze {
+public class Tranzpoze {
     public static void main(String[] args) {
 
         int[][] matris = new int[4][6];

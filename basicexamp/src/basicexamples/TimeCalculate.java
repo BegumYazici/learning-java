@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by asus1 on 6.10.2017.
  */
-public class times {
+public class TimeCalculate {
     public static void main(String[] args) {
 
         Scanner entry = new Scanner(System.in);
