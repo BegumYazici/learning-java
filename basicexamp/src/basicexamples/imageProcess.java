@@ -5,10 +5,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 /**
  * Created by asus1 on 12.10.2017.
@@ -47,7 +44,13 @@ public class imageProcess {
 
          //   System.out.println(mapEntry.getValue());
         }
+
+        Scanner scan = new Scanner(System.in);
+        scan.nextDouble();
     }
+
+
+
 }   /*   Color c = new Color(image.getRGB(x, y));
                 r = c.getRed();
                 g = c.getGreen();
